@@ -39,18 +39,6 @@ Letters: Both uppercase and lowercase letters are accepted.
 Win Condition: The game is won by guessing all letters in the word.
 Lose Condition: The game is lost if the player makes 6 incorrect guesses.
 
-Example Output
-   _____
-  /     \
- |       |   O
- |      /|\
- |      / \
- |
-=========
-Attempts left: 6
-_ _ _ _ _ _ _ 
-Guess a letter: 
-
 Dependencies
 Compiler: GCC or any C++ compiler supporting C++11 or later.
 
