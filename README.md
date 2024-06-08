@@ -14,8 +14,8 @@ Installation
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/hangman-game.git
-cd hangman-game
+git clone [https://github.com/yourusername/hangman-game.git
+cd hangman-game](https://github.com/Ghost99er/Hangman-C-.git)
 
 Compile the Program:
 
